@@ -1,2 +1,2 @@
-# semantic-release-test
-semantic-release-test
+# typebox-test
+typebox-test
